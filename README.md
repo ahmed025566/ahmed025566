@@ -14,7 +14,7 @@ const ahmed = {
     pronouns: "He" | "Him",
     askMeAbout: [ "web dev", "data analysis","tech"],
     technologies:{
-        backEnd: ["nodejs", "python"],
+        backEnd: ["nodejs", "Ruby"],
         fronEnd: ["React"],
         database: ["mongo","mySql"],
         
